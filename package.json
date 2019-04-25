@@ -1,0 +1,26 @@
+{
+  "name": "proyectopnl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanchoMen/ProyectoPNL.git"
+  },
+  "author": "Francisco J. Mendoza Álvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanchoMen/ProyectoPNL/issues"
+  },
+  "homepage": "https://github.com/PanchoMen/ProyectoPNL#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "xregexp": "^4.2.4"
+  }
+}
